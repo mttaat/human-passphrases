@@ -24,7 +24,7 @@
 # you generated passphrases.
 #
 # @mttaat
-# https://mtta.at
+# https://mttaat.net
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 

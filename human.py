@@ -21,7 +21,7 @@
 # *NSFW NOTE*
 # This script does no filtering of the words used, so if your
 # /usr/share/dict/words contains filthy language then so may
-# you generated passphrases.
+# your generated passphrases.
 #
 # @mttaat
 # https://mttaat.net
